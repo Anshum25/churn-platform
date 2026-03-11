@@ -1,0 +1,18 @@
+# Data files (too large for github)
+data/raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Models (large files)
+models/
+
+# Environment
+.env
+venv/
